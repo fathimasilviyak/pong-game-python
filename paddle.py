@@ -18,4 +18,3 @@ class Paddle(Turtle):
         y_position = self.ycor() - 20
         self.goto(self.xcor(), y_position)
 
-
